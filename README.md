@@ -1,1 +1,1 @@
-# APM--Application_of_Python_in_Maths
+# APM-Application of Python in Mathematics
