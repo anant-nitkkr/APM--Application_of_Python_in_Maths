@@ -8,7 +8,7 @@ The "Application of Python in Basic Math" course is designed to enhance particip
 ## Course Details
 
 ### Duration:
-- **22 December 2024 to 28 February 2025** (flexible)
+- **26 December 2024 to 28 February 2025** (flexible)
 
 ### Mode:
 - **Online** (initial sessions)
@@ -24,13 +24,13 @@ The "Application of Python in Basic Math" course is designed to enhance particip
 
 ## Course Structure
 This course covers the following topics:
-
-1. **Linear Algebra**
-2. **Calculus**
-3. **Probability**
-4. **Ordinary Differential Equations (ODEs)**
-5. **Partial Differential Equations (PDEs)**
-6. **Linear Programming**
+1. **Basic of Python Programming**
+2. **Linear Algebra**
+3. **Calculus**
+4. **Probability**
+5. **Ordinary Differential Equations (ODEs)**
+6. **Partial Differential Equations (PDEs)**
+7. **Linear Programming**
 
 Each topic includes Python-based exercises that participants will submit online after the respective lecture.
 
